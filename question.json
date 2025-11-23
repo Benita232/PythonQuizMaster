@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": {"a": "Berlin", "b": "Madrid", "c": "Paris", "d": "Rome"},
+    "answer": "c"
+  },
+  {
+    "question": "Which programming language is known for its snake logo?",
+    "options": {"a": "Java", "b": "Python", "c": "C++", "d": "Ruby"},
+    "answer": "b"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": {"a": "O2", "b": "CO2", "c": "H2O", "d": "NaCl"},
+    "answer": "c"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": {"a": "5", "b": "6", "c": "7", "d": "8"},
+    "answer": "c"
+  },
+  {
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "options": {"a": "William Shakespeare", "b": "Mark Twain", "c": "Charles Dickens", "d": "Jane Austen"},
+    "answer": "a"
+  },
+  {
+    "question": "What year did the first man land on the moon?",
+    "options": {"a": "1965", "b": "1969", "c": "1971", "d": "1959"},
+    "answer": "b"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": {"a": "Earth", "b": "Jupiter", "c": "Saturn", "d": "Mars"},
+    "answer": "b"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": {"a": "Hyper Trainer Marking Language", "b": "Hyper Text Markup Language", "c": "Hyper Text Marketing Language", "d": "Hyper Transport Markup Language"},
+    "answer": "b"
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "options": {"a": "Seaweed", "b": "Soybean paste", "c": "Rice", "d": "Tofu"},
+    "answer": "b"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": {"a": "Oxygen", "b": "Hydrogen", "c": "Carbon", "d": "Helium"},
+    "answer": "b"
+  }
+]
